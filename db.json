@@ -1,14 +1,14 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "messages": [
+    { "id": 1, "text": "This is message 1", "msgstatus": "1" },
+    { "id": 2, "text": "This is message 2", "msgstatus": "2" },
+    { "id": 3, "text": "This is message 3", "msgstatus": "3" },
+    { "id": 4, "text": "This is message 4", "msgstatus": "1" },
+    { "id": 5, "text": "This is message 5", "msgstatus": "3" }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "profile": { "name": "typicode" }
 }
+
