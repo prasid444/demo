@@ -1,10 +1,20 @@
 {
   "messages": [
-    { "id": 1, "text": "This is message 1", "msgstatus": "1" },
-    { "id": 2, "text": "This is message 2", "msgstatus": "2" },
-    { "id": 3, "text": "This is message 3", "msgstatus": "3" },
-    { "id": 4, "text": "This is message 4", "msgstatus": "1" },
-    { "id": 5, "text": "This is message 5", "msgstatus": "3" }
+    { "chatid": 1, "recentmessage": "This is recent 1", "updated_time": "12:01pm","messagestatus":"1","messagetype":"1",
+"contactid":"2" },
+    {"chatid": 2, "recentmessage": "This is recent 2", "updated_time": "11:01pm","messagestatus":"2","messagetype":"1",
+"contactid":"2" },
+  {"chatid": 3, "recentmessage": "This is recent 3", "updated_time": "10:01pm","messagestatus":"1","messagetype":"2",
+"contactid":"2" },
+  {"chatid": 4, "recentmessage": "This is recent 4", "updated_time": "9:01pm","messagestatus":"2","messagetype":"2",
+"contactid":"2" },
+  {"chatid": 5, "recentmessage": "This is recent 5", "updated_time": "10:01pm","messagestatus":"1","messagetype":"1",
+"contactid":"2" },
+  {"chatid": 6, "recentmessage": "This is recent 6", "updated_time": "11:01pm","messagestatus":"1","messagetype":"2",
+"contactid":"2" },
+  {"chatid": 7, "recentmessage": "This is recent 7", "updated_time": "12:41pm","messagestatus":"2","messagetype":"1",
+"contactid":"2" },
+
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
