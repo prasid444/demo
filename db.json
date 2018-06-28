@@ -70,6 +70,23 @@
 			"messagestatus": "1",
 			"messagetype": "2",
 			"contactid": "2"
+		},
+{
+			"chatid": 10,
+			"recentmessage": "Message from 10",
+			"updated_at": "12:41pm",
+			"messagestatus": "1",
+			"messagetype": "1",
+			"contactid": "2"
+		}
+,
+{
+			"chatid": 11,
+			"recentmessage": "Message from11",
+			"updated_at": "12:41pm",
+			"messagestatus": "2",
+			"messagetype": "2",
+			"contactid": "2"
 		}
 
 	],
