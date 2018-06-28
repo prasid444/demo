@@ -62,6 +62,14 @@
 			"messagestatus": "2",
 			"messagetype": "1",
 			"contactid": "2"
+		},
+{
+			"chatid": 9,
+			"recentmessage": "Message from 9",
+			"updated_at": "12:41pm",
+			"messagestatus": "1",
+			"messagetype": "2",
+			"contactid": "2"
 		}
 
 	],
